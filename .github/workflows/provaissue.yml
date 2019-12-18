@@ -9,5 +9,5 @@ jobs:
       if: github.event_name == 'issues' && github.event.action == 'opened'
       env:
         GITHUB_TOKEN: ${{ secrets.token_prova }}
-        GITHUB_PROJECT_URL: https://github.com/giovanni9793/Universita/projects/1
+        GITHUB_PROJECT_URL: https://github.com/orgs/TennersUnipd/projects/1
         GITHUB_PROJECT_COLUMN_NAME: To do
