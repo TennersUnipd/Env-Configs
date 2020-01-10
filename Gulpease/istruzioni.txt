@@ -1,0 +1,8 @@
+Per utilizzare questo python script è necessario che sia installato il pacchetto pdftotext
+le librerie python textract sys re
+
+Prima di eseguire lo script è necessario convertire il PDF in testo semplice con il comando "$ pdftotext <nomeDocumento>.pdf"
+
+Per eseguire lo script basta scrivere "python IndiceGulpease.py <nomeDocumento>.txt"
+
+In caso non dovesse ancora funzionare è allegato tutte le dipendeze installate sulla mia macchia, e quindi lanciare "$ pip install --user -requirement requirements.txt" 
