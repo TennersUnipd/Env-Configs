@@ -55,8 +55,6 @@ def gen_sections():
 
         page.write("\\subsubsection*{" + line[0] + "}")
         page.write('\n')
-        page.write("\\index*{" + line[0] + "}")
-        page.write('\n')
         page.write(line[1])
         page.write('\n')
     return letters
