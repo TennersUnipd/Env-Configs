@@ -1,7 +1,7 @@
 # Gestione delle pull requests
 :warning: **DISCLAIMER** :warning: **Questo documento non si propone di essere una guida definitiva per l'uso delle pull request**
 
-<img src="https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/pullRequestExample.png" height="70">
+<img src="https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/pullRequestExample.png" height="200">
 
 ## Come verificare che le modifiche richieste siano state effettuate
 
