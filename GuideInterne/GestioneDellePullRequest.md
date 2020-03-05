@@ -1,7 +1,7 @@
 # Gestione delle pull requests
 :warning: **DISCLAIMER** :warning: **Questo documento non si propone di essere una guida definitiva per l'uso delle pull request**
 
-![Pull requests](https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/pullRequestExample.png | height=100)
+<img src="https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/pullRequestExample.png" height="70">
 
 ## Come verificare che le modifiche richieste siano state effettuate
 
@@ -18,7 +18,7 @@ Fare click su dettagli, se l'errore non è relativo all'esecuzione del test ma a
 Ogni modifica prima di essere approvata necessita di controlli, per esser certi che le modifiche richieste siano state implementate in maniera corretta verificate con lo strumento di Review messo a disposizione da GitHub.
 Per eseguire una review fare click sulla tab Files changed e verificare le modifiche fatte a ogni singolo file.
 
-![Controlli ok](https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/fileChanged.png)
+![Controlli ok](https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/filesChanged.png)
 
 E per ogni modifica effettuata verificate la differenza sulla versione precedente,una volta effettuta la verifica fate click sulla spunta di avvenuta analisi.
 
