@@ -31,3 +31,5 @@ Una volta completato fare click su submit review.
 ![Review](https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/Review.png)
 
 Una volta completata questa operazione sarà quindi possibile proseguire con la pull request e procedere al merge.
+
+Per domande, dubbi o migliorie per la guida non esitate a chiedere.
