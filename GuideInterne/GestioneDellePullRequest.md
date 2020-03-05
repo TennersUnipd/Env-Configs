@@ -1,7 +1,7 @@
 # Gestione delle pull requests
 :warning: **DISCLAIMER** :warning: **Questo documento non si propone di essere una guida definitiva per l'uso delle pull request**
 
-<img src="https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/pullRequestExample.png" height="200">
+<img src="https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/pullRequestExample.png" width="200">
 
 ## Come verificare che le modifiche richieste siano state effettuate
 
@@ -28,5 +28,6 @@ Completato il check delle modifiche, fare click su "Review Changes" indicando se
 In caso di modifiche che non soddisfano i requisiti richiesti utilizzare Request changes.
 Una volta completato fare click su submit review.
 
+![Review](https://github.com/TennersUnipd/developmentConfigurations/blob/master/GuideInterne/imgs/Review.png)
 
 Una volta completata questa operazione sarà quindi possibile proseguire con la pull request e procedere al merge.
